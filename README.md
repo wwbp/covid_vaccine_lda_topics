@@ -27,6 +27,7 @@ This file is used to visualize top words in each topic.
 ## Citation
 
 Please cite the following paper if you use this data. 
+
 Sharath Chandra Guntuku, Alison M. Buttenheim, Garrick Sherman, Raina M. Merchant, Twitter discourse reveals geographical and temporal variation in concerns about COVID-19 Vaccines in the United States, Vaccine, 2021,
 
 ```
