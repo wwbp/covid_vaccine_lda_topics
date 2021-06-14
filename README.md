@@ -38,7 +38,7 @@ year = {2021},
 issn = {0264-410X},
 doi = {https://doi.org/10.1016/j.vaccine.2021.06.014},
 url = {https://www.sciencedirect.com/science/article/pii/S0264410X21007386},
-author = {Sharath {Chandra Guntuku} and Alison M. Buttenheim and Garrick Sherman and Raina M. Merchant}
+author = {Sharath Chandra Guntuku and Alison M. Buttenheim and Garrick Sherman and Raina M. Merchant}
 }
 ```
 
