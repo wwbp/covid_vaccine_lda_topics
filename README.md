@@ -2,7 +2,7 @@
 
 A set of 100 COVID-19 vaccine-related topics derived from Twitter between December 2020 and February 2021. 
 
-Read the full publication [here](https://authors.elsevier.com/sd/article/S0264-410X(21)00738-6). 
+Read the full publication [here](https://doi.org/10.1016/j.vaccine.2021.06.014). 
 
 ## Topics
 
