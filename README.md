@@ -24,6 +24,8 @@ This file is used to visualize top words in each topic.
 * `category`: Numeric topic id (from 0 to 100)
 * `weight`: Posterior likelihood
 
+The third file `acp_vaccination_rates_week.csv` indicates Percentage of people who received two doses of the COVID-19 vaccine in each ACP community as designated by the [American Communities Project](https://www.americancommunities.org/). Vaccination data was obtained from [CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/distributing/reporting-counties.html) between December 13, 2020 and June 3, 2021 for counties and aggregated to weeks across ACP communities.
+
 ## Citation
 
 Please cite the following paper if you use this data. 
