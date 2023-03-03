@@ -4,6 +4,8 @@ A set of 100 COVID-19 vaccine-related topics derived from Twitter between Decemb
 
 Read the full publication [here](https://doi.org/10.1016/j.vaccine.2021.06.014). 
 
+We also release the tweet_ids of vaccine related tweets from December 2020 to November 2021 (a subset of which was used in this paper) [here](https://drive.google.com/file/d/1SxzVkEvy24gxQl-SV_G9yGpB2spqvgPJ/view?usp=sharing). You could use several tools such as [hydrator](https://github.com/DocNow/hydrator) to download the tweet objects. 
+
 ## Topics
 
 There are two files in this data:
